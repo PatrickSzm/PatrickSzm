@@ -68,9 +68,8 @@ European Computer Driving Licence – Proficient in Microsoft Office and digital
 
 ## 📫 Let's Connect
 
-- 📧 Email: szmuckpatrick@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/szmuckpatrick](https://linkedin.com/in/szmuckpatrick)  
-- 🌐 Portfolio: (Coming soon...)
+- 📧 Email: patrickszmuck@yahoo.com 
+- 💼 LinkedIn: [[linkedin.com/in/szmuckpatrick](https://linkedin.com/in/szmuckpatrick)  ](https://www.linkedin.com/in/patrick-gabriel-szmuck-836a8b2b3/)
 
 ---
 
