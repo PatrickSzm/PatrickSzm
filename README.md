@@ -27,9 +27,10 @@ Whether it's working on full-stack applications, designing compilers, or experim
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3A4E81?style=flat&logo=lisp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat)
 
 **Frameworks & Platforms**  
-.NET, Entity Framework, React, Unity, Node.js, Express
+.NET, Entity Framework, React, Qt, Unity, Node.js, Express
 
 **Other Tools & Concepts**  
 Git & GitHub, OOP, REST APIs, SQL Server, Agile/Scrum, Blender (basic)
